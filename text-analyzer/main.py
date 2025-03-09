@@ -45,3 +45,6 @@ if text_input.strip():
     analyze_text(text_input)
 else:
     st.warning("Please enter some text to analyze.")
+
+st.write("-----")
+st.write("Made with ❤️ by [Mudasir Sohail](https://www.linkedin.com/in/mudasir-sohail-98b399257/) ")
